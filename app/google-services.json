@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402763291592",
+    "firebase_url": "https://weathercaseapp-3bdb2.firebaseio.com",
+    "project_id": "weathercaseapp-3bdb2",
+    "storage_bucket": "weathercaseapp-3bdb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402763291592:android:27ad9951ac5a2a8e55befd",
+        "android_client_info": {
+          "package_name": "com.example.weathercaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402763291592-0p73jcums50427lha0odknrfmcikarte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weathercaseapp",
+            "certificate_hash": "05eaff59fd1707b9e8e5df78463495b9b7e66e85"
+          }
+        },
+        {
+          "client_id": "402763291592-3g1avshr3a5v823brhd834kuo1si6eqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8JWHdCCtx_mi9Dda2GDN9Q1KwRA8tzGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402763291592-3g1avshr3a5v823brhd834kuo1si6eqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
