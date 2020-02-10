@@ -47,7 +47,6 @@ public class AdapterChat extends RecyclerView.Adapter<AdapterChat.MyHolder>{
             View view = LayoutInflater.from(context).inflate(R.layout.row_chat_left, viewGroup, false);
             return new MyHolder(view);
         }
-
     }
 
     @Override
